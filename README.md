@@ -5,7 +5,7 @@
 
 # About me:
 
-📫 How to reach me: ...
+#📫 How to contact me:
 [LinkedIn](https://www.linkedin.com/in/huynhtnguyen/ "Huynh's LinkedIn Profile")
 
 <!-- - 🔭 I’m currently working on 
