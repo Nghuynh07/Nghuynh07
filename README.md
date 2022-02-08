@@ -1,6 +1,4 @@
-#### Hello! 👋
-### I'm Huynh Nguyen
-####%% I'm Software Engineer || Full-stack Developer || Front-End Engineer || React Developer
+#### Hello! 👋 ### I'm Huynh Nguyen ###### I'm Software Engineer || Full-stack Developer || Front-End Engineer || React Developer
 <!--
 **Nghuynh07/Nghuynh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
