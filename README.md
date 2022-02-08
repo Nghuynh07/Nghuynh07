@@ -1,8 +1,6 @@
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+#### Hello! 👋
+#### I'm Huynh Nguyen
+#### a Software Engineer || Full-stack Developer || Front-End Engineer || React Developer
 <!--
 **Nghuynh07/Nghuynh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
