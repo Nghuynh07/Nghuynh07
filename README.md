@@ -1,9 +1,6 @@
-<a name="headers"/>
-##Headers
+### Hello! I'm Huynh Nguyen
+#### I'm a Software Engineer || Front-End Engineer || Full-Stack Engineer || React Developer
 
-
-<!--
-**Nghuynh07/Nghuynh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
