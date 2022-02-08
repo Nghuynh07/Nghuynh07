@@ -6,6 +6,7 @@
 # About me:
 
 📫 How to reach me: ...
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 <!-- - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Python
