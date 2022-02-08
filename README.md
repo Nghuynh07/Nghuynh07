@@ -1,6 +1,6 @@
-### Hi there 👋
-
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+Hello! 
+I'm Huynh Nguyen
+Software Engineer || Full-stack Developer || Front-End Engineer || React Developer
 
 <!--
 **Nghuynh07/Nghuynh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
