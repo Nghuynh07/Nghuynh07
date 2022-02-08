@@ -1,4 +1,4 @@
-# Greetings !<User name="YOUR NAME"/>!
+|                                                                       GREETINGS                                                                                                |
 ### Hello! I'm Huynh Nguyen
 #### I'm a Software Engineer || Front-End Engineer || Full-Stack Engineer || React Developer
 
