@@ -6,8 +6,8 @@
 # About me:
 #### I am a passionate self-taught / bootcamp software engineer. 
 
-
- [LinkedIn](https://www.linkedin.com/in/huynhtnguyen/ "Huynh's LinkedIn Profile") * [LinkedIn](https://www.linkedin.com/in/huynhtnguyen/ "Huynh's LinkedIn Profile")
+# 📫
+ [LinkedIn](https://www.linkedin.com/in/huynhtnguyen/ "Huynh's LinkedIn Profile")
 
 <!-- - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Python
