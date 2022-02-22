@@ -1,16 +1,10 @@
-# GREETINGS
-### I'm Huynh Nguyen (Win-Win) 😄
-###### I'm a Software Engineer || Front-End Engineer || Full-Stack Engineer || React Developer
+# About me :writing_hand:
 
-
-# About me:
-#### I am a passionate self-taught / bootcamp software engineer. 
+Hello there! I'm Huynh. I'am a self-taught/bootcamp programmer.
 
 # 📫 
  ||
  [LinkedIn](https://www.linkedin.com/in/huynhtnguyen/ "Huynh's LinkedIn Profile")
- ||
- [CodePen](https://codepen.io/htn1988 "CodePen Playground")
  ||
 
 <!-- - 🔭 I’m currently working on 
