@@ -1,7 +1,4 @@
-# About me :writing_hand:
-
-Hello there! I'm Huynh. I'am a self-taught/bootcamp programmer.
-
+![](banner.png)
 # 📫 
  ||
  [LinkedIn](https://www.linkedin.com/in/huynhtnguyen/ "Huynh's LinkedIn Profile")
