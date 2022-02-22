@@ -1,4 +1,4 @@
-![](banner.png)
+
 # 📫 
  ||
  [LinkedIn](https://www.linkedin.com/in/huynhtnguyen/ "Huynh's LinkedIn Profile")
