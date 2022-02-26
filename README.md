@@ -24,7 +24,7 @@ I am a full-stack developer with a strong interest in front-end development. I s
 - :tv: Friends and The Office are my all time favorite comedies
 - :violin: I mostly enjoy instrumental music or soundtracks
 - :grimacing: I enjoy playing games (not so much lately): Aion, Diablo series, League of Legends, WoW, Maplestory, Gunbound, Silkroad
-- :poultry_leg: I cook 90% of my meal. Other 10% can be anything
+- :poultry_leg: I cook 90% of my meals. Other 10% can be anything
 - :muscle: I love working out. It has been a part of  my daily routine and healthy lifestyle
 - 🤓 I really enjoy algorithm (improving my skills daily on this)
 
