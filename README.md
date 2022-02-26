@@ -3,10 +3,13 @@
 
 I am a full-stack developer with a strong interest in front-end development. I started my programming journey March, 2021. I enrolled and graduated as a full-stack developer in Java (Spring boot), Python (Django), and MERN stack. I am very lucky to have found my passion in programming in my early 30s. I struggle often as a self-taught / bootcamp programmer; however, I have come a long way from zero knowledge to full-stack developer. Currently looking for opportunity in software development ultizing 10 years experience in healthcare profession (pharmacy) and BA in Visual Art.
 
+
  ## 🔭 I’m currently working on:
  - Full-stack website for Echo Valley Family Farm (Vegetable farm)
  - Website for Adult Family Home 
- 
+ - Personal portfolio
+
+
 ## 🌱I’m currently learning:
 - ❤️ Javascript animation
 
@@ -15,12 +18,14 @@ I am a full-stack developer with a strong interest in front-end development. I s
 - Vue
 - Refreshing my Python (Django) skill and get into Machine Learning
 - And the list goes  on....😂
+
+
 ## ⚡ Fun fact: ...
 - :tv: Friends and The Office are my all time favorites comedy
 - :violin: I mostly enjoy instrumental muscics or soundtracks
 - :grimacing: I enjoy playing games (Not so much lately): Aion, Diablo series, League of Legends, WoW, Maplestory, Gunbound, Silkroad
 - :poultry_leg: I cook 90% of my meal. Other 10% can be anything
-- :muscle: I love working out. It has been a part of  my daily routine and healthy life.
+- :muscle: I love working out. It has been a part of  my daily routine and healthy life habit
 - 🤓 I really enjoy algorithm (Daily improving my skill on this)
 
 
