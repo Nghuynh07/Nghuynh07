@@ -12,12 +12,14 @@ I am a full-stack developer with a strong interest in front-end development. I s
 - Angular
 - Vue
 - Refreshing my Python (Django) skill and get into Machine Learning
+- And the list goes  on....😂
 ## ⚡ Fun fact: ...
 - :tv: Friends and The Office are my all time favorites comedy
 - :violin: I mostly enjoy instrumental muscics or soundtracks
 - :grimacing: I enjoy playing games (Not so much lately): Aion, Diablo series, League of Legends, WoW, Maplestory, Gunbound, Silkroad
 - :poultry_leg: I cook 90% of my meal. Other 10% can anything
 - :muscle: I love working out. It has been a part of  my daily routine and healthy life.
+- 🤓 I really enjoy algorithm (Daily improving my skill on this)
 
 
 ## 📫 How to reach me: ...
