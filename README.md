@@ -8,7 +8,7 @@ I am a full-stack developer with a strong interest in front-end development. I s
  - Website for Adult Family Home 
  
 ## 🌱I’m currently learning:
-- Javascript animation
+- ❤️ Javascript animation
 
 ## ⚙ Technologies I want to learn next:
 - Angular
