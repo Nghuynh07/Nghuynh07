@@ -1,5 +1,5 @@
 # ***Hello I'm Huynh***
-I am a full-stack developer with a strong interest in front-end development. I started my programming journey March, 2021. I enrolled and graduated as a full-stack developer in Java (Spring boot), Python (Django), and MERN stack. I am very lucky to have found my passion in programming in my early 30s. I struggle often as a self-taught / bootcamp programmer; however, I have come a long way from zero knowledge to full-stack developer. I am hoping to leverage my 10 years experience in healthcare profession (pharmacy) and BA in Visual Art for software development role in the future. 
+I am a full-stack developer with a strong interest in front-end development. I started my programming journey March, 2021. I enrolled and graduated as a full-stack developer in Java (Spring boot), Python (Django), and MERN stack. I am very lucky to have found my passion in programming in my early 30s. I struggle often as a self-taught / bootcamp programmer; however, I have come a long way from zero knowledge to full-stack developer. Currently looking for opportunity in software development ultizing 10 years experience in healthcare profession (pharmacy) and BA in Visual Art.
 
  ## 🔭 I’m currently working on:
  - Full-stack website for Echo Valley Family Farm (Vegetable farm)
