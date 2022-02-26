@@ -25,8 +25,8 @@ I am a full-stack developer with a strong interest in front-end development. I s
 - :violin: I mostly enjoy instrumental music or soundtracks
 - :grimacing: I enjoy playing games (Not so much lately): Aion, Diablo series, League of Legends, WoW, Maplestory, Gunbound, Silkroad
 - :poultry_leg: I cook 90% of my meal. Other 10% can be anything
-- :muscle: I love working out. It has been a part of  my daily routine and healthy life habit
-- 🤓 I really enjoy algorithm (Daily improving my skill on this)
+- :muscle: I love working out. It has been a part of  my daily routine and healthy lifestyle
+- 🤓 I really enjoy algorithm (improving my skills daily on this)
 
 
 ## 📫 How to reach me: ...
