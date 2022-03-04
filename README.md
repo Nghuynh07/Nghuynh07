@@ -11,7 +11,7 @@ I am a full-stack developer with a strong interest in front-end development. I s
 
 
 ## 🌱I’m currently learning:
-- ❤️ Javascript animation
+- ❤️  NextJS
 
 ## ⚙ Technologies I want to learn next:
 - Angular
