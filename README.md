@@ -10,8 +10,8 @@ I am a full-stack developer with a strong interest in front-end development. I s
  - Personal portfolio
 
 
-## 🌱I’m currently learning:
-- ❤️  NextJS
+<!-- ## 🌱I’m currently learning: -->
+<!-- - ❤️  NextJS -->
 
 ## ⚙ Technologies I want to learn next:
 - Angular
@@ -26,14 +26,14 @@ I am a full-stack developer with a strong interest in front-end development. I s
 - :grimacing: I enjoy playing games (not so much lately): Aion, Diablo series, League of Legends, WoW, Maplestory, Gunbound, Silkroad
 - :poultry_leg: I cook 90% of my meals. Other 10% can be anything
 - :muscle: I love working out. It has been a part of  my daily routine and healthy lifestyle
-- 🤓 I really enjoy algorithm (improving my skills daily on this)
+<!-- - 🤓 I really enjoy algorithm (improving my skills daily on this) -->
 
 
 ## 📫 How to reach me: ...
  ||
  [LinkedIn](https://www.linkedin.com/in/huynhtnguyen/ "Huynh's LinkedIn Profile")
  ||
- 
+  [Portfolio & Resume](https://huynhtn.com/ "Personal Portfolio & Resume")
 <!--
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on React/Python
