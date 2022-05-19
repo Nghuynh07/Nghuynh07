@@ -5,9 +5,7 @@ I am a full-stack developer with a strong interest in front-end development. I s
 
 
  ## 🔭 I’m currently working on:
- - Full-stack website for Echo Valley Family Farm (vegetable farm)
- - Website for an Adult Family Home 
- - Personal portfolio
+- Taking on challenges on FrontendMentor
 
 
 <!-- ## 🌱I’m currently learning: -->
