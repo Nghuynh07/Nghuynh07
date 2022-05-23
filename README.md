@@ -32,7 +32,9 @@ My name is Huynh and I am a passionate front-end developer. I started out as a f
  ||
  [Portfolio & Resume](https://huynhtn.com/ "Personal Portfolio & Resume")
  ||
- [Frontend Mentor]([https://huynhtn.com/](https://www.frontendmentor.io/profile/Nghuynh07) "Personal Portfolio & Resume")
+ [Frontend Mentor](https://www.frontendmentor.io/profile/Nghuynh07/ "Frontend Mentor")
+  
+
   
 <!--
 - 🌱 I’m currently learning Python
