@@ -1,21 +1,20 @@
-![Banner](_banner.png)
 
+# Weclome to my personal hub 😄
 
-I am a full-stack developer with a strong interest in front-end development. I started my programming journey March, 2021. I enrolled and graduated as a full-stack developer in Java (Spring boot), Python (Django), and MERN stack. I have come a long way from zero knowledge to full-stack developer. Currently looking for opportunity in software development ultilizing 10 years experience in healthcare profession (pharmacy) and BA degree in Visual Art.
+My name is Huynh and I am a passionate front-end developer. I started out as a full-stack developer; however, I fell In love with front-end development during the time I was in boot camp. I am currently taking on challenges on Frontend Mentor as a way to improve my front end skills. 
 
 
  ## 🔭 I’m currently working on:
-- Taking on challenges on FrontendMentor
+- React / JS / CSS / SCSS 
 
 
 <!-- ## 🌱I’m currently learning: -->
 <!-- - ❤️  NextJS -->
 
 ## ⚙ Technologies I want to learn next:
+- Typescript
 - Angular
 - Vue
-- Refreshing my Python (Django) skill and get into Machine Learning
-- And the list goes  on....😂
 
 
 ## ⚡ Fun fact: ...
@@ -31,7 +30,10 @@ I am a full-stack developer with a strong interest in front-end development. I s
  ||
  [LinkedIn](https://www.linkedin.com/in/huynhtnguyen/ "Huynh's LinkedIn Profile")
  ||
-  [Portfolio & Resume](https://huynhtn.com/ "Personal Portfolio & Resume")
+ [Portfolio & Resume](https://huynhtn.com/ "Personal Portfolio & Resume")
+ ||
+ [Frontend Mentor]([https://huynhtn.com/](https://www.frontendmentor.io/profile/Nghuynh07) "Personal Portfolio & Resume")
+  
 <!--
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on React/Python
