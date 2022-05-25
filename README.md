@@ -1,7 +1,7 @@
 
 # Weclome to my personal hub 😄
 
-My name is Huynh and I am a passionate front-end developer. I started out as a full-stack developer; however, I fell In love with front-end development during the time I was in boot camp. I am currently taking on challenges on Frontend Mentor as a way to improve my front end skills. 
+My name is Huynh and I am a passionate front-end developer. I started out as a full-stack developer; however, I fell In love with front-end development after bootcamp. I am currently taking on challenges on Frontend Mentor as a way to improve my front end skills. 
 
 
  ## 🔭 I’m currently working on:
